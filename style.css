@@ -14,3 +14,9 @@ h1 {
     color: white;
     background-color: mediumspringgreen;
 }
+#hacksaw_brushes {
+    color: black;
+    font-weight: bold;
+    text-align: left;
+    font-family: Helvetica;
+}
